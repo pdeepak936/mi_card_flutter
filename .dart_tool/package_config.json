@@ -146,13 +146,13 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "i_am_rich",
+      "name": "mi_card",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2023-12-08T10:38:57.150491Z",
+  "generated": "2023-12-08T10:46:34.192848Z",
   "generator": "pub",
   "generatorVersion": "3.2.2"
 }
